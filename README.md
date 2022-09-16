@@ -1,2 +1,0 @@
-# suiteCRM
-#Adding SuiteCRM
